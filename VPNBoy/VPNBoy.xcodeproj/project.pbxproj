@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					40BCDE941DC97649005708D8 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = T2P5KEWF36;
+						DevelopmentTeam = KDJQT66777;
 						ProvisioningStyle = Automatic;
 					};
 					40BCDEA81DC9764A005708D8 = {
@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T2P5KEWF36;
+				DEVELOPMENT_TEAM = KDJQT66777;
 				INFOPLIST_FILE = VPNBoy/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -429,7 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T2P5KEWF36;
+				DEVELOPMENT_TEAM = KDJQT66777;
 				INFOPLIST_FILE = VPNBoy/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -516,6 +516,7 @@
 				40BCDEBF1DC9764A005708D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40BCDEC01DC9764A005708D8 /* Build configuration list for PBXNativeTarget "VPNBoyTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				40BCDEC21DC9764A005708D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40BCDEC31DC9764A005708D8 /* Build configuration list for PBXNativeTarget "VPNBoyUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				40BCDEC51DC9764A005708D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
